@@ -97,6 +97,13 @@ Elle permet de :
 A la suite des packages installés ci-dessus vous installez le package pour tourner votre application streamlit.
 pip install streamlit yt-dlp 
 
+## Quelquetions supplementaires
+
+Mettez dans votre dossier local, le fichier .json de votre clé API de google video intelligence, Créer également un dossier video pour stocker les vidéos téléchargées.
+Assurez vous d'assurer d'avoir installer le fichier executablme ffmpeg.
+
 ## Lancer l'application.
 streamlit run app.py
+
+
 
