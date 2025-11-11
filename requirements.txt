@@ -1,0 +1,40 @@
+# ============================
+# Requirements
+# ============================
+
+# Interface utilisateur
+streamlit>=1.39.0
+
+# Téléchargement de vidéos YouTube
+yt-dlp>=2024.10.22
+
+# Traitement vidéo et image
+opencv-python>=4.10.0.84
+numpy>=1.26.0
+
+# Analyse audio
+librosa>=0.10.2
+soundfile>=0.12.1
+numba>=0.59.1
+
+# Gestion des données
+pandas>=2.2.2
+
+# API Google Video Intelligence
+google-cloud-videointelligence>=2.12.0
+google-auth>=2.34.0
+google-api-core>=2.19.0
+
+# Google Generative AI (Gemini)
+google-generativeai>=0.5.4
+
+# API OpenAI (ChatGPT)
+openai>=1.52.2
+
+# Utilitaires
+tqdm>=4.66.5
+protobuf>=4.25.3
+requests>=2.32.3
+
+# Manipulation système
+ffmpeg-python>=0.2.0
